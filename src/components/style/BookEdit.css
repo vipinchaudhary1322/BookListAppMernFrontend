@@ -1,0 +1,70 @@
+.wrapper-login3 {
+    width: 500px;
+    padding: 20px;
+    background-color: #eaeaea;
+    box-shadow: 2px 2px 1px 2px #08d9d6;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #08d9d6;
+  }
+  
+  #login-form3 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .input-wrapper3 {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    height: 30px;
+    display: flex;
+    flex-flow: column;
+  }
+  
+  .input3 {
+    width: 100%;
+    border: 1px solid #ff2e63;
+    height: 50px;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+  label {
+    margin: 5px;
+  }
+  
+  .btn3 {
+    background-color: #252a34;
+    color: #eaeaea;
+    border: none;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    color: #ff2e63;
+  }
+  
+  .regBtn {
+    background-color: #252a55;
+    margin-top: 5px;
+  }
+  
+  .updateBtn {
+    margin-top: 40px;
+  }
+  

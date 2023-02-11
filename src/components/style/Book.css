@@ -1,0 +1,30 @@
+.book-card {
+    margin: 8px;
+    padding: 10px;
+    background-color: #EAEAEA;
+    border-radius: 10px;
+    min-width: 220px;
+  }
+  
+  .book-card p {
+    margin: 0 5px;
+    padding: 0;
+  }
+  
+  p.book-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    color: #FF2E63;
+    cursor: pointer;
+  }
+  
+  .book-title:hover {
+    color: #08D9D6;
+  }
+  
+  p.book-author {
+    color: grey;
+    margin-bottom: 8px;
+  }
+  
